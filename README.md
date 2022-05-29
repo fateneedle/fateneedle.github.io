@@ -21,7 +21,6 @@
     ">
       <h1>没错你是鲨币</h1>
       <p>
-    </div>
     <div style="
          background-color: #f1f1f1;
          text-align: center;
@@ -29,5 +28,4 @@
          font-size:20px;
          ">
          <p>版权所有：hlc</p>
-  </body>
 
