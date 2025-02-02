@@ -26,5 +26,5 @@
          padding: 40px;
          font-size:20px;
          ">
-         <p><a href="https://www.microsoft.com](https://space.bilibili.com/475942456?spm_id_from=333.1007.0.0/">友情链接</a></p>
+         <p><a href="https://space.bilibili.com/475942456?spm_id_from=333.1007.0.0/">友情链接</a></p>
 
